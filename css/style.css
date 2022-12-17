@@ -4,6 +4,7 @@
     padding: 0%;
     margin: 0%;
 }
+
 /* -------------------HEADER-------------------*/
 
 /*--------NAV--------*/
@@ -67,6 +68,9 @@ body header div nav a{
     width: 100%;
     height: 40rem;
     background-color: white;
+    justify-content: center;
+    flex-direction: column;
+    flex-wrap: wrap;
 }
 .section3{
     display: flex;
@@ -158,5 +162,14 @@ footer{
     margin-left: 3rem;
 }
 /*-SECTION2--------------------------------*/
+.div1Section2{
+    
+}
+.p1Section2{
+    text-align: center;
+}
+.h1Section2{
+    text-align: center;
+}
 /*-SECTION3--------------------------------*/
 /*-SECTION4--------------------------------*/
