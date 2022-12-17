@@ -193,9 +193,22 @@ footer{
     justify-content: space-around;
 }
 .div1Div2Section2{
-    margin-right: 13%;
-    width: 30rem;
+    margin-left: 4rem;
+    width: 38rem;
     background-color: #6e6e6e;
+}
+.div2Div2Section2{
+    background-color: aqua;
+    margin-right: 15%;
+}
+.h3Section2{
+    font-size: 5rem;
+    text-align: center;
+    background-image: url(../assets/img/circuloAmarillo.png);
+    background-repeat: no-repeat;
+    background-position: 50% 1.5rem;
+    color: #212429;
+
 }
 /*-SECTION3--------------------------------*/
 /*-SECTION4--------------------------------*/
