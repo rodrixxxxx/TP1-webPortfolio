@@ -188,28 +188,40 @@ footer{
     margin-bottom: 1rem;
 }
 .div2Section2{
-    background-color: cadetblue;
     display: flex;
     justify-content: space-around;
 }
 .div1Div2Section2{
-    margin-left: 4rem;
+    margin-left: 15rem;
     width: 38rem;
-    background-color: #6e6e6e;
 }
 .div2Div2Section2{
-    background-color: aqua;
-    margin-right: 15%;
+    margin-right: 20%;
 }
 .h3Section2{
-    font-size: 5rem;
+    font-size: 6rem;
     text-align: center;
     background-image: url(../assets/img/circuloAmarillo.png);
     background-repeat: no-repeat;
-    background-position: 50% 1.5rem;
+    background-position: 50% 2rem;
     color: #212429;
+}
+.p2Section2{
     color: #212429;
-
+    font-size: 1.4rem;
+}
+.div3Section2{
+    display: flex;
+    justify-content: space-around;
+    height: 30rem;
+    margin-top: 3rem;
+    flex-wrap: wrap;
+}
+.cajaDato{
+    margin: 2rem;
+}
+.p1div3section2{
+    color: gray;
 }
 /*-SECTION3--------------------------------*/
 /*-SECTION4--------------------------------*/
