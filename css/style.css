@@ -68,9 +68,8 @@ body header div nav a{
     width: 100%;
     height: 40rem;
     background-color: white;
-    justify-content: center;
+
     flex-direction: column;
-    flex-wrap: wrap;
 }
 .section3{
     display: flex;
@@ -163,13 +162,40 @@ footer{
 }
 /*-SECTION2--------------------------------*/
 .div1Section2{
-    
+    padding: 0px;
+    margin-bottom: 4rem;
+    margin-left: 40%;
+    margin-right: 40%;
 }
 .p1Section2{
     text-align: center;
+    background-color: #f5df4e;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-bottom: 1rem;
+    margin-top: 4rem;
+    font-size: 1.3rem;
+    font-family: 'Roboto', sans-serif;
 }
 .h1Section2{
     text-align: center;
+    font-size: 2.3rem;
+    font-family: 'Roboto', sans-serif;
+}
+.h2Section2{
+    font-size: 2rem;
+    font-family: 'Roboto', sans-serif;
+    margin-bottom: 1rem;
+}
+.div2Section2{
+    background-color: cadetblue;
+    display: flex;
+    justify-content: space-around;
+}
+.div1Div2Section2{
+    margin-right: 13%;
+    width: 30rem;
+    background-color: #6e6e6e;
 }
 /*-SECTION3--------------------------------*/
 /*-SECTION4--------------------------------*/
