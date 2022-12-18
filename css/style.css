@@ -249,7 +249,7 @@ footer{
 }
 .p2Section3{
     font-size: 2.3rem;
-    font-weight: bold;
+    font-weight: bold ;
 
 }
 .fila1Section3{
@@ -285,5 +285,8 @@ footer{
     font-size: 3rem;
     margin-left: 41%;
     margin-bottom: 1rem;
+}
+.pLoremSection3{
+    color: darkgray;
 }
 /*-SECTION4--------------------------------*/
