@@ -76,6 +76,8 @@ body header div nav a{
     width: 100%;
     height: 40rem;
     background-color: #f8f9fb;
+    justify-content: center;
+    flex-direction: column;
 }
 .section4{
     display: flex;
@@ -213,15 +215,52 @@ footer{
 .div3Section2{
     display: flex;
     justify-content: space-around;
-    height: 30rem;
+    height: auto;
     margin-top: 3rem;
     flex-wrap: wrap;
 }
 .cajaDato{
     margin: 2rem;
+    height: 4rem;
 }
 .p1div3section2{
     color: gray;
 }
 /*-SECTION3--------------------------------*/
+.div1Section3{
+    padding: 0px;
+    margin-bottom: 4rem;
+    margin-left: 40%;
+    margin-right: 40%;
+}
+
+
+.p1Section3{
+    text-align: center;
+    background-color: #f5df4e;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-bottom: 1rem;
+    margin-top: 4rem;
+    font-size: 1.3rem;
+    font-family: 'Roboto', sans-serif;
+}
+.fila1Section3{
+    background-color: aqua;
+    display: flex;
+    flex-wrap: wrap;
+    width: auto;
+    height: 10rem;
+    justify-content: space-around;
+    margin-bottom: 2rem;
+}
+.fila2Section3{
+    background-color: greenyellow;
+    display: flex;
+    flex-wrap: wrap;
+    width: auto;
+    height: 10rem;
+    justify-content: space-around;
+    margin-bottom: 2rem;
+}
 /*-SECTION4--------------------------------*/
