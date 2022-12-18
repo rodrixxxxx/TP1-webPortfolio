@@ -309,6 +309,7 @@ footer{
     display: flex;
     justify-content: space-around;
     margin-top: 2rem;
+    flex-wrap: wrap;
 }
 .boxLista{
     margin-top: 1rem;
@@ -331,4 +332,11 @@ footer{
 }
 .boxSection4{
     display: flex;
+}
+.h4Section4{
+    color: #6e6e6e;
+}
+/*------------------------------Clases Generales Sueltas------------------------------*/
+.marginTop1Rem{
+    margin-top: 1rem;
 }
