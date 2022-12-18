@@ -5,6 +5,11 @@
     margin: 0%;
     font-family: 'Roboto', sans-serif;
 }
+@media (max-width: 797px){
+    .h2Section1{
+        font-size: calc(1vw + 2rem);
+    }
+}
 
 /* -------------------HEADER-------------------*/
 
