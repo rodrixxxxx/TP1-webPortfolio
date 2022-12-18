@@ -336,6 +336,34 @@ footer{
 .h4Section4{
     color: #6e6e6e;
 }
+.boxPorcentaje{
+    display: flex;
+}
+.barraGris{
+    background-color: #adadad;
+    height: 1rem;
+    width: 25%;
+}
+.barraAmarilla{
+    background-color: #f5df4e;
+    height: 1rem;
+    width: 25%;
+}
+.boxListaPorcentaje{
+    margin-top: 1rem;
+    width: 30rem;
+}
+.botonDescargarCv{
+    padding: 5px;
+    text-decoration: none;
+    border-color: #212429;
+    border-style: solid;
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+    margin-left: 46%;
+    margin-right: 46%;
+}
 /*------------------------------Clases Generales Sueltas------------------------------*/
 .marginTop1Rem{
     margin-top: 1rem;
